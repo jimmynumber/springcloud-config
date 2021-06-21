@@ -1,1 +1,2 @@
-aaa=21
+config:
+  info: dev,hello word
